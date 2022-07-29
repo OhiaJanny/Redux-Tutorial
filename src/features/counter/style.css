@@ -1,0 +1,52 @@
+.input {
+  display: flex;
+  justify-content: space-around;
+}
+.btn {
+  width: 5%;
+  padding: 10px 15px;
+  border: 0;
+  background: #333;
+  color: #fff;
+  border-radius: 5px;
+  margin: 5px;
+  transition: width 1s;
+}
+.btn:hover {
+  background: rgb(24, 49, 161);
+  width: 7%;
+}
+.btn1 {
+  width: 40%;
+  padding: 10px 15px;
+  border: 0;
+  background: #333;
+  color: #fff;
+  border-radius: 5px;
+  margin: 5px;
+  transition: width 1s;
+}
+.btn1:hover {
+  width: 50%;
+  background: rgb(24, 49, 161);
+}
+input {
+  width: 70%;
+  height: 5%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid rgb(126, 124, 124);
+}
+h3 {
+  color: blue;
+}
+h3:hover {
+  color: rgb(255, 0, 43);
+}
+h2 {
+  color: green;
+}
+h2:hover {
+  color: blue;
+}
